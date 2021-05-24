@@ -1,7 +1,7 @@
 
 > **Platform** : Udemy
 
-> **Course** : [2021 Complete Python Bootcamp from Zero to Hero in Python]()
+> **Course** : [2021 Complete Python Bootcamp from Zero to Hero in Python](){:target="_blank"}
 
 > **Instructor** : [Jose Portilla]()
 

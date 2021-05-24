@@ -3,7 +3,7 @@
 
 > **Course** : [Learn Figma-UI/UX Design Essential Training](https://www.udemy.com/course/learn-figma/)
 
-> **Instructor** : [Caleb Kingston]()
+> **Instructor** : [Caleb Kingston](https://www.udemy.com/user/caleb-kingston/)
 
 > <a target="_blank" href="https://udemy-certificate.s3.amazonaws.com/image/UC-3f6414f5-f5ba-4a00-949a-8843b35f07f7.jpg">Certificate Link</a>
 

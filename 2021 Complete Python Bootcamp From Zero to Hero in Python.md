@@ -1,7 +1,7 @@
 
 > **Platform** : Udemy
 
-[2021 Complete Python Bootcamp from Zero to Hero in Python](https://udemy.com){target="_blank"}
+> **Course** : [2021 Complete Python Bootcamp from Zero to Hero in Python](https://udemy.com){target="_blank"}
 
 > **Instructor** : [Jose Portilla]()
 

@@ -5,4 +5,4 @@
 
 >Certificate : 
 
-[pythonbootcamp](../Certificates/Udemy/2021CompletePythonBootcamp.jpg)
+[pythonbootcamp](./Certificates/Udemy/2021CompletePythonBootcamp.jpg)

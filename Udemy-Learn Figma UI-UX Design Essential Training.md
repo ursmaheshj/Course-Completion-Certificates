@@ -1,5 +1,5 @@
 
-> **Platform** : [Udemy]()
+> **Platform** : [Udemy](https://www.udemy.com/)
 
 > **Course** : [Learn Figma-UI/UX Design Essential Training](https://www.udemy.com/course/learn-figma/)
 

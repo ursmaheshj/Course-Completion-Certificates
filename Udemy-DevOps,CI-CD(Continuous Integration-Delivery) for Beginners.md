@@ -1,5 +1,5 @@
 
-> **Platform** : [Udemy]()
+> **Platform** : [Udemy](https://www.udemy.com/)
 
 > **Course** : [DevOps,CI/CD(Continuous Integration/Delivery) for Beginners](https://www.udemy.com/course/ci-cd-devops/)
 

@@ -1,7 +1,7 @@
 
 > **Platform** : [Udemy]()
 
-> **Course** : [Python OOP : Four Pillars of OOP in Python 3 for Beginners](https://udemy.com)
+> **Course** : [Python OOP : Four Pillars of OOP in Python 3 for Beginners](https://www.udemy.com/course/python-oops-beginners/)
 
 > **Instructor** : [Febin George]()
 

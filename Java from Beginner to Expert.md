@@ -1,7 +1,7 @@
 
 > **Platform** : [Udemy]()
 
-> **Course** : [Java from Beginner to Expert](https://udemy.com)
+> **Course** : [Java from Beginner to Expert](https://www.udemy.com/course/java-from-beginner-to-expert/)
 
 > **Instructor** : [Arkadiusz Wlodarczyk]()
 

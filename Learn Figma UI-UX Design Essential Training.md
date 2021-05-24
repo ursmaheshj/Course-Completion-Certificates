@@ -1,7 +1,7 @@
 
 > **Platform** : [Udemy]()
 
-> **Course** : [Learn Figma-UI/UX Design Essential Training](https://udemy.com)
+> **Course** : [Learn Figma-UI/UX Design Essential Training](https://www.udemy.com/course/learn-figma/)
 
 > **Instructor** : [Caleb Kingston]()
 

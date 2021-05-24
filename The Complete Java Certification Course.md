@@ -1,7 +1,7 @@
 
 > **Platform** : [Udemy]()
 
-> **Course** : [The Complete Java Certification Course](https://udemy.com)
+> **Course** : [The Complete Java Certification Course](https://www.udemy.com/course/master-practical-java-development/)
 
 > **Instructor** : [Imtiaz Ahmad]()
 

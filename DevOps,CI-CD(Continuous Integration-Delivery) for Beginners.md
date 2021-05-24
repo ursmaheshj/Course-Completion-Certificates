@@ -1,7 +1,7 @@
 
 > **Platform** : [Udemy]()
 
-> **Course** : [DevOps,CI/CD(Continuous Integration/Delivery) for Beginners](https://udemy.com)
+> **Course** : [DevOps,CI/CD(Continuous Integration/Delivery) for Beginners](https://www.udemy.com/course/ci-cd-devops/)
 
 > **Instructor** : [John Honai]()
 
